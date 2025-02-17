@@ -86,7 +86,7 @@ const config: OrderlyConfig = {
       brandColor: "rgba(255, 255, 255, 0.98)",
 
       // ref
-      refLink: "https://corpai",
+      refLink: "https://orderly.network",
       refSlogan: "Orderly referral",
     },
   },
