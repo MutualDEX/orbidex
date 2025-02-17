@@ -51,9 +51,9 @@ const config: OrderlyConfig = {
       },
     },
     footerProps: {
-      telegramUrl: "https://orderly.network",
-      discordUrl: "https://discord.com/invite/orderlynetwork",
-      twitterUrl: "https://twitter.com/OrderlyNetwork",
+      telegramUrl: "https://CorpAI",
+      discordUrl: "https://discord.com/invite/CorpAI",
+      twitterUrl: "https://twitter.com/CorpAI",
     },
   },
   orderlyAppProvider: {
@@ -86,7 +86,7 @@ const config: OrderlyConfig = {
       brandColor: "rgba(255, 255, 255, 0.98)",
 
       // ref
-      refLink: "https://orderly.network",
+      refLink: "https://corpai",
       refSlogan: "Orderly referral",
     },
   },
